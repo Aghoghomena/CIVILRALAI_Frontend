@@ -2,7 +2,7 @@
 
 > **A RAG chatbot that gives immigrants and citizens in Ireland instant, cited answers to questions about government welfare, social benefits, and public services — sourced directly from official Irish government websites.**
 
-> ⚠️ **This UI requires the backend to be running.** Clone and set up the backend first: [Aghoghomena/first_rag_project](https://github.com/Aghoghomena/first_rag_project)
+> ⚠️ **This UI requires the backend to be running.** Clone and set up the backend first: [CIVILRALAI backend](https://github.com/Aghoghomena/CIVILRALAI_backend.git)
 
 ---
 
