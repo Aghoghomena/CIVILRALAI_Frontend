@@ -144,7 +144,7 @@ This UI will not work without the backend running. Clone both:
 
 ```bash
 # Backend (required)
-git clone https://github.com/Aghoghomena/first_rag_project.git
+git clone https://github.com/Aghoghomena/CIVILRALAI_backend.gi
 cd first_rag_project
 
 # Frontend (this repo)
